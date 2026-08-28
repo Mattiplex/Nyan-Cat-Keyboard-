@@ -7,5 +7,5 @@ early sketch of my keyboard added
 9 hours later, free again   
 i made the schematics for my keyboard thou it's still missing two functions (2hours)   
 Day 2
-
+finished wiring up my schematics , added a mcp23008 extension chip 
 
