@@ -13,6 +13,9 @@ Day 2
 finished wiring up my schematics , added a mcp23008 extension chip (1hour30min)  
 Day 3   
 run the electric test , found some problems , got feedback on led wiring , fix it waiting for more feedback on #keeb  
-Day4  
-didn't do anything today, i was working on another project
+Day 4  
+didn't do anything today, i was working on another project  
+day 5  
+finish solving the led problem and schematics, research abt footprints, will assign them tmr
+
 
