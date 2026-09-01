@@ -16,6 +16,8 @@ run the electric test , found some problems , got feedback on led wiring , fix i
 Day 4  
 didn't do anything today, i was working on another project  
 day 5  
-finish solving the led problem and schematics, research abt footprints, will assign them tmr
+finish solving the led problem and schematics, research abt footprints, will assign them tmr   
+day 6   
+finished assigning the footprint , now welcome to wiring hell , also i'll be gone for two days so day 7 & 8 won't be any update
 
 
