@@ -18,6 +18,8 @@ didn't do anything today, i was working on another project
 day 5  
 finish solving the led problem and schematics, research abt footprints, will assign them tmr   
 day 6   
-finished assigning the footprint , now welcome to wiring hell , also i'll be gone for two days so day 7 & 8 won't be any update
+finished assigning the footprint , now welcome to wiring hell , also i'll be gone for two days so day 7 & 8 won't be any update  
+day9&10  
+change my switch to kalih HS switch , started the layout for my keyboard , wondering how to add usb c power to my pcb 
 
 
