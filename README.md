@@ -23,7 +23,10 @@ day9&10
 change my switch to kalih HS switch , started the layout for my keyboard , wondering how to add usb c power to my pcb   
 day11  
 i opted to switch to clone pico that have usb C , i'm also finished with the layout of the switches but i still got some question  
-so imma wait for some feedback from #keeb (ouff turns out my capacitors are wrong , i switched to ceramic ones)
+so imma wait for some feedback from #keeb (ouff turns out my capacitors are wrong , i switched to ceramic ones)  
+day 12   
+did nothing particular today  
+
 
 
 
