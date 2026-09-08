@@ -26,6 +26,8 @@ i opted to switch to clone pico that have usb C , i'm also finished with the lay
 so imma wait for some feedback from #keeb (ouff turns out my capacitors are wrong , i switched to ceramic ones)  
 day 12   
 did nothing particular today  
+day 13   
+routed the first row of the keyboard , will continue tmr
 
 
 
