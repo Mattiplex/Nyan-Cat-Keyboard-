@@ -1,8 +1,10 @@
 # Nyan-Cat-Keyboard-
 A keyboard Straight out of 2011 
 
-oh yeah , watch me take on this four day challenge to create this keyboard with no experience.  
+oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (edit) it got extended  
 
+  
+i got lapse set up on this so @Miles(Roxstar) you can check it out there  
 Project Timeline
  
 Day 1  
@@ -27,7 +29,12 @@ so imma wait for some feedback from #keeb (ouff turns out my capacitors are wron
 day 12   
 did nothing particular today  
 day 13   
-routed the first row of the keyboard , will continue tmr
+routed the first row of the keyboard , will continue tmr.  
+day 14 15 16 17   
+ok so i didn't do much these four days because i was soldering my blinker which didn't work :(   
+day 18   
+ok so big update so i deleted all my trace that i wire on day 13 bcs it's too messy and the 5v trace is too thin. i also change my   
+diode to smd components. i also placed more components down and i decide to switch the diodes position to the side of the switch instead of on top.
 
 
 
