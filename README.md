@@ -35,6 +35,8 @@ ok so i didn't do much these four days because i was soldering my blinker which 
 day 18   
 ok so big update so i deleted all my trace that i wire on day 13 bcs it's too messy and the 5v trace is too thin. i also change my   
 diode to smd components. i also placed more components down and i decide to switch the diodes position to the side of the switch instead of on top.
+day 19 
+alright so i work on the led placement and holy hell i made a mistake
 
 
 
