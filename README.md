@@ -38,7 +38,9 @@ diode to smd components. i also placed more components down and i decide to swit
 day 19   
 alright so i work on the led placement and holy hell i made a mistake    
 day 20  
-contemplating my design choice
+contemplating my design choice  
+day 21  
+ok after watching a few tutorial , i refined the schematics of my key switch matrix and switch out the mcp23008 extension chip with mcp22017 chip and as for the pcb it itself it's back to square one.
 
 
 
