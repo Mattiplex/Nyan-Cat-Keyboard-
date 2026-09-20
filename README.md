@@ -3,6 +3,7 @@ A keyboard Straight out of 2011
 
 oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (edit) it got extended  
 pictures outside the files are pictures that log my development bfr i mess up and redo parts of sch and the whole part of my pcb
+pictures in descending order = day 21 start
 
   
 i got lapse set up on this so @Miles(Roxstar) you can check it out there  
@@ -43,6 +44,8 @@ contemplating my design choice
 day 21  
 ok after watching a few tutorial , i refined the schematics of my key switch matrix and switch out the mcp23008 extension chip with mcp22017 chip and as for the pcb it itself it's back to square one.  
 day 22   
-ok so today i log a small section like 35min , so i learn how to use a placer to help me place my keyswitch to my KLE layout that i want 
+ok so today i log a small section like 35min , so i learn how to use a placer to help me place my keyswitch to my KLE layout that i want   
+day 23  
+today i work on more of my layout and finished placing all the components for my layout , but when i run DRC there seem to some issue with LED board edge clearance so i ask on #keeb and haven't started to route my pcb yet
 
 
