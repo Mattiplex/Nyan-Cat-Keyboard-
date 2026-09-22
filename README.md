@@ -48,5 +48,7 @@ ok so today i log a small section like 35min , so i learn how to use a placer to
 day 23  
 today i work on more of my layout and finished placing all the components for my layout , but when i run DRC there seem to some issue with LED board edge clearance so i ask on #keeb and haven't started to route my pcb yet  
 day 24   
-ok so today i solve the clearance issue and route the pcb thou im only like 45% done
+ok so today i solve the clearance issue and route the pcb thou im only like 45% done   
+day 25   
+ok so today i finish most of the wiring just the led that is still unroute
 
