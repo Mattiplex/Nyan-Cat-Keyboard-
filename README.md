@@ -50,5 +50,9 @@ today i work on more of my layout and finished placing all the components for my
 day 24   
 ok so today i solve the clearance issue and route the pcb thou im only like 45% done   
 day 25   
-ok so today i finish most of the wiring just the led that is still unroute
+ok so today i finish most of the wiring just the led that is still unroute  
+day 26  
+did nothing, fr really tired that day  
+day 27  
+so today i routed the led (ongoing) and i fix some issue col7 unrouted and added two capacitor for both the OLED screen and the Mcp23017 controller 
 
